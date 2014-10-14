@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://ablock92.github.io/sitemap.xml 
+Sitemap: http://ablock92.github.io.test/sitemap.xml 
