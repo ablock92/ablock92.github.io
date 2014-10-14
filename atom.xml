@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ablock92.github.io/atom.xml" rel="self"/>
   <link href="http://ablock92.github.io/"/>
-  <updated>2014-10-14T16:43:42-04:00</updated>
+  <updated>2014-10-14T16:48:01-04:00</updated>
   <id>http://ablock92.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,7 @@
     <link href="http://ablock92.github.io/blog/2014/10/14/this-is-a-test/"/>
     <updated>2014-10-14T16:27:03-04:00</updated>
     <id>http://ablock92.github.io/blog/2014/10/14/this-is-a-test</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h2>This is a blog post</h2>
 ]]></content>
   </entry>
   
