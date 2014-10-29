@@ -4,7 +4,7 @@
   <title><![CDATA[Alex Block]]></title>
   <link href="http://ablock92.github.io.test/atom.xml" rel="self"/>
   <link href="http://ablock92.github.io.test/"/>
-  <updated>2014-10-14T17:21:25-04:00</updated>
+  <updated>2014-10-29T09:50:25-04:00</updated>
   <id>http://ablock92.github.io.test/</id>
   <author>
     <name><![CDATA[Alex Block]]></name>
@@ -18,7 +18,9 @@
     <link href="http://ablock92.github.io.test/blog/2014/10/14/test-post-1/"/>
     <updated>2014-10-14T17:13:24-04:00</updated>
     <id>http://ablock92.github.io.test/blog/2014/10/14/test-post-1</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>This is my post about stuff. I learned so much at bootcamp so far.</p>
+
+<h1>Bigger stuff</h1>
 ]]></content>
   </entry>
   
