@@ -4,13 +4,22 @@
   <title><![CDATA[Alex Block]]></title>
   <link href="http://ablock92.github.io.test/atom.xml" rel="self"/>
   <link href="http://ablock92.github.io.test/"/>
-  <updated>2014-10-29T12:50:57-04:00</updated>
+  <updated>2014-10-29T12:59:01-04:00</updated>
   <id>http://ablock92.github.io.test/</id>
   <author>
     <name><![CDATA[Alex Block]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test post 2]]></title>
+    <link href="http://ablock92.github.io.test/blog/2014/10/29/test-post-2/"/>
+    <updated>2014-10-29T12:58:46-04:00</updated>
+    <id>http://ablock92.github.io.test/blog/2014/10/29/test-post-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test Post 1]]></title>
