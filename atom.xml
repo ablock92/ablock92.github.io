@@ -4,7 +4,7 @@
   <title><![CDATA[Alex Block]]></title>
   <link href="http://ablock92.github.io.test/atom.xml" rel="self"/>
   <link href="http://ablock92.github.io.test/"/>
-  <updated>2014-10-31T09:49:46-04:00</updated>
+  <updated>2014-10-31T11:01:21-04:00</updated>
   <id>http://ablock92.github.io.test/</id>
   <author>
     <name><![CDATA[Alex Block]]></name>
@@ -17,7 +17,7 @@
     <link href="http://ablock92.github.io.test/blog/2014/10/30/new-york-times-headline-analysis/"/>
     <updated>2014-10-30T11:40:20-04:00</updated>
     <id>http://ablock92.github.io.test/blog/2014/10/30/new-york-times-headline-analysis</id>
-    <content type="html"><![CDATA[<p>This project organically derives political topics from the headlines of New York Times articles and then tracks the appearance of those topics over time.</p>
+    <content type="html"><![CDATA[<p>This project organically derives political topics from the headlines of New York Times articles and then tracks the appearance of those topics over time. This is a test</p>
 
 <!-- more -->
 
