@@ -2,32 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Alex Block]]></title>
-  <link href="http://ablock92.github.io.cococococ/atom.xml" rel="self"/>
-  <link href="http://ablock92.github.io.cococococ/"/>
-  <updated>2014-10-31T14:12:52-04:00</updated>
-  <id>http://ablock92.github.io.cococococ/</id>
+  <link href="http://ablock92.github.io/atom.xml" rel="self"/>
+  <link href="http://ablock92.github.io/"/>
+  <updated>2014-10-31T14:48:45-04:00</updated>
+  <id>http://ablock92.github.io/</id>
   <author>
     <name><![CDATA[Alex Block]]></name>
     
   </author>
 
-  
-  <entry>
-    <title type="html"><![CDATA[New York Times Headlines Analysis]]></title>
-    <link href="http://ablock92.github.io.cococococ/blog/2014/10/31/new-york-times-headline-analysis/"/>
-    <updated>2014-10-31T11:21:34-04:00</updated>
-    <id>http://ablock92.github.io.cococococ/blog/2014/10/31/new-york-times-headline-analysis</id>
-    <content type="html"><![CDATA[<p>New York Times headlines</p>
-
-<p>This project organically derives political topics from the headlines of New York Times articles and then tracks the appearance of those topics over time.</p>
-
-<!-- more -->
-
-
-<p>I looked at the last 5 United States Presidents (Obama, Bush, Clinton, Bush, Reagan)</p>
-
-<p>The New York Times Article Search API provides an abundance of information about their articles.</p>
-]]></content>
-  </entry>
   
 </feed>
