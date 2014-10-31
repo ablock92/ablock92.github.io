@@ -4,17 +4,16 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ablock92.github.io/atom.xml" rel="self"/>
   <link href="http://ablock92.github.io/"/>
-  <updated>2014-10-31T11:14:23-04:00</updated>
+  <updated>2014-10-31T11:18:01-04:00</updated>
   <id>http://ablock92.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
   </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[This Is a Test]]></title>
+    <title type="html"><![CDATA[This is a test]]></title>
     <link href="http://ablock92.github.io/blog/2014/10/14/this-is-a-test/"/>
     <updated>2014-10-14T16:27:03-04:00</updated>
     <id>http://ablock92.github.io/blog/2014/10/14/this-is-a-test</id>
