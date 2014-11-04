@@ -4,45 +4,12 @@
   <title><![CDATA[Alex Block]]></title>
   <link href="http://ablock92.github.io/atom.xml" rel="self"/>
   <link href="http://ablock92.github.io/"/>
-  <updated>2014-11-03T13:04:29-05:00</updated>
+  <updated>2014-11-04T14:35:01-05:00</updated>
   <id>http://ablock92.github.io/</id>
   <author>
     <name><![CDATA[Alex Block]]></name>
     
   </author>
 
-  
-  <entry>
-    <title type="html"><![CDATA[New York Times Headlines Analysis]]></title>
-    <link href="http://ablock92.github.io/blog/new-york-times-headline-analysis/"/>
-    <updated>2014-10-31T11:21:34-04:00</updated>
-    <id>http://ablock92.github.io/blog/new-york-times-headline-analysis</id>
-    <content type="html"><![CDATA[<p>Many people read the New York Times or other newspapers on a daily basis to keep up to date on current political events. It&rsquo;s a great way to learn more about the world and gain a better appreciation for what is happening around us and I almost never take the time to do it. In fact, even skimming through the headlines is sometimes a bit of a chore. I imagine that many key political moments have occurred with me barely even noticing.</p>
-
-<p>As an aspiring Data Scientist, the solution to this problem was fairly obvious: instead of trying to read back through the news and figure out all of the major political events that I have missed, I could make a computer look at the news and tell me everything that I need to know.</p>
-
-<!-- More -->
-
-
-<p><strong>Results</strong><br/>
-Ultimately, I defined 100 different topics based off the headlines and looked at keyword frequencies to try and determine what the topic was actually about.</p>
-
-<p><strong>Data</strong><br/>
-I looked at the presidential terms of the last 5 United States Presidents (Obama, Bush, Clinton, Bush, Reagan). Since the New York Times API did not define political articles, I searched for articles that mentioned &ldquo;President <em>(Current President)</em>&rdquo; during each presidential term. In total, I gathered 167,425 articles.</p>
-
-<!-- 
-Even more people only skim the headlines and gain a general idea of the issues and topics that are being most talked about. Some people don't read the New York Times at all! 
-
-New York Times headlines are a ne
-
-
-
-This project organically derives political topics from the headlines of New York Times articles and then tracks the appearance of those topics over time. 
- -->
-
-
-
-]]></content>
-  </entry>
   
 </feed>
